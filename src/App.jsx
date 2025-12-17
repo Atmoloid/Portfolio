@@ -1,5 +1,6 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import blockchainImg from './assets/pics/blockchain.png';
 import './App.css'
 import  ShinyText  from "@/components/ShinyText/ShinyText.jsx";
 import  Aurora from "@/components/Aurora/Aurora.jsx";
@@ -67,7 +68,7 @@ console.log('All letters have animated!');
     <div id="projects">
       <div className="project">
         <a href='https://github.com/Atmoloid/Javascript-blockchain' target="blank">
-        <img src="/Portfolio/pics/blockchain.png" />
+        <img src={blockchainImg} />
         </a>
         <section>
           <ul>

@@ -67,7 +67,7 @@ console.log('All letters have animated!');
     <div id="projects">
       <div className="project">
         <a href='https://github.com/Atmoloid/Javascript-blockchain' target="blank">
-        <img src="./public/pics/blockchain.png" />
+        <img src="/Portfolio/pics/blockchain.png" />
         </a>
         <section>
           <ul>

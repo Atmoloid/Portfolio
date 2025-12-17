@@ -1,6 +1,6 @@
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import blockchainImg from './assets/pics/blockchain.png';
+import blockchainImg from './src/assets/pics/blockchain.png';
 import './App.css'
 import  ShinyText  from "@/components/ShinyText/ShinyText.jsx";
 import  Aurora from "@/components/Aurora/Aurora.jsx";

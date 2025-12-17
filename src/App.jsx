@@ -67,7 +67,7 @@ console.log('All letters have animated!');
     <div id="projects">
       <div className="project">
         <a href='https://github.com/Atmoloid/Javascript-blockchain' target="blank">
-        <img src="pics/blockchain.png" />
+        <img src="./public/pics/blockchain.png" />
         </a>
         <section>
           <ul>
@@ -79,7 +79,7 @@ console.log('All letters have animated!');
       </div>
       <div className="project">
         <a href='https://github.com/Atmoloid/media-player' target="blank">
-        <img src="pics/media-player.png" />
+        <img src="./public/pics/media-player.png" />
         </a>
         <section>
           <ul>
@@ -91,7 +91,7 @@ console.log('All letters have animated!');
       
       <div className="project">
       <a href="https://github.com/Atmoloid/Battleship" target="blank">
-      <img src="pics/battleship.png" />
+      <img src="./public/pics/battleship.png" />
       </a>
         <section>
           <ul>
@@ -102,7 +102,7 @@ console.log('All letters have animated!');
         </div>
       <div className="project">
         <a href='https://github.com/Atmoloid/Snake-game' target="blank">
-        <img src="pics/snake-game.png" />
+        <img src="./public/pics/snake-game.png" />
         </a>
         <section>
           <ul>
@@ -113,7 +113,7 @@ console.log('All letters have animated!');
       </div>
       <div className="project">
        <a href='https://github.com/Atmoloid/Google-Flights-clone' target="blank">
-        <img src="pics/flight-app.png" />
+        <img src="./public/pics/flight-app.png" />
         </a>
         <section>
           <ul>
